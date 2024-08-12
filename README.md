@@ -1,2 +1,2 @@
 # Himanshi-Sharmas
-Oral cancer decision support system 
+machine learning capstone project
